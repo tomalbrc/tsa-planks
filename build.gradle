@@ -27,7 +27,7 @@ dependencies {
     modImplementation ("eu.pb4:polymer-resource-pack:${project.polymer_version}")
     modImplementation ("eu.pb4:polymer-autohost:${project.polymer_version}")
 
-    modImplementation("de.tomalbrc:filament:0.3.3+1.20.1")
+    modImplementation("de.tomalbrc:filament:0.3.3+${project.minecraft_version}")
 }
 
 processResources {
