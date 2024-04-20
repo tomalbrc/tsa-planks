@@ -33,7 +33,7 @@ public class TSAPlanks implements ModInitializer {
             e.printStackTrace();
         }
 
-        PolymerResourcePackUtils.addModAssets("toms-vertical-planks");
+        PolymerResourcePackUtils.addModAssets("tsa-planks");
         PolymerResourcePackUtils.markAsRequired();
     }
     public void registerBlocks(String path) {
