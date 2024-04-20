@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_cherry_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/cherry"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:cherry_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

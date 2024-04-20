@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_spruce_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/spruce"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:spruce_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

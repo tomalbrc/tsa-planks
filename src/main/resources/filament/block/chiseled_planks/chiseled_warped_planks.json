@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_warped_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/warped"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:warped_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

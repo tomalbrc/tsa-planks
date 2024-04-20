@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "tsa:vertical_acacia_planks"
+        }
+    },
+    "result": {
+        "item": "tsa:chiseled_acacia_planks",
+        "count": 3
+    }
+}

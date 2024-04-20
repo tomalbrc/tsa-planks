@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "toms-vertical-planks",
+  "version": "${version}",
+  "name": "toms-vertical-planks",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/tomalbrc/toms-vertical-planks"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "tsa-planks-icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.tomalbrc.tomsverticalplanks.TomsVerticalPlanks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "filament": ">=0.3.3"
+  }
+}

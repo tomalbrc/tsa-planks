@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "tsa:vertical_oak_planks",
+    "tsa:vertical_crimson_planks",
+    "tsa:vertical_spruce_planks",
+    "tsa:vertical_jungle_planks",
+    "tsa:vertical_mangrove_planks",
+    "tsa:vertical_cherry_planks",
+    "tsa:vertical_bamboo_planks",
+    "tsa:vertical_birch_planks",
+    "tsa:vertical_dark_oak_planks",
+    "tsa:vertical_warped_planks",
+    "tsa:vertical_acacia_planks",
+    "tsa:chiseled_acacia_planks",
+    "tsa:chiseled_bamboo_planks",
+    "tsa:chiseled_birch_planks",
+    "tsa:chiseled_cherry_planks",
+    "tsa:chiseled_crimson_planks",
+    "tsa:chiseled_dark_oak_planks",
+    "tsa:chiseled_jungle_planks",
+    "tsa:chiseled_mangrove_planks",
+    "tsa:chiseled_oak_planks",
+    "tsa:chiseled_spruce_planks",
+    "tsa:chiseled_warped_planks"
+  ]
+}

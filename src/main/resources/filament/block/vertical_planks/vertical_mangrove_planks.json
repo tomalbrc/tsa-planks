@@ -1,0 +1,13 @@
+{
+  "id": "tsa:vertical_mangrove_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/vertical_planks/mangrove"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:mangrove_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_mangrove_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/mangrove"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:mangrove_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

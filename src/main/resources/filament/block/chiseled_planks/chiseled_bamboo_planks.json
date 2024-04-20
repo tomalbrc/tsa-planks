@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_bamboo_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/bamboo"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:bamboo_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tsa:chiseled_jungle_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/chiseled_planks/jungle"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:jungle_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

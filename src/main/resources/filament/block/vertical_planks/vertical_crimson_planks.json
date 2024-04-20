@@ -1,0 +1,13 @@
+{
+  "id": "tsa:vertical_crimson_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/vertical_planks/crimson"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:crimson_planks",
+    "itemBase": "minecraft:paper"
+  }
+}

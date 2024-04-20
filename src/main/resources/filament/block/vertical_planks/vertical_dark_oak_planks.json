@@ -1,0 +1,13 @@
+{
+  "id": "tsa:vertical_dark_oak_planks",
+  "blockResource": {
+    "models" : {
+      "default": "minecraft:custom/block/wood/vertical_planks/dark_oak"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:dark_oak_planks",
+    "itemBase": "minecraft:paper"
+  }
+}
