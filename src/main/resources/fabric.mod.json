@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "toms-vertical-planks",
+  "id": "tsa-planks",
   "version": "${version}",
-  "name": "toms-vertical-planks",
+  "name": "tsa-planks",
   "description": "",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/tomalbrc/toms-vertical-planks"
+    "repo": "https://github.com/tomalbrc/tsa-planks"
   },
   "license": "MIT",
   "icon": "tsa-planks-icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.tomalbrc.tomsverticalplanks.TomsVerticalPlanks"
+      "de.tomalbrc.tsaplanks.TSAPlanks"
     ]
   },
   "depends": {

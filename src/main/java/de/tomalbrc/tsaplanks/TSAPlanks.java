@@ -1,4 +1,4 @@
-package de.tomalbrc.tomsverticalplanks;
+package de.tomalbrc.tsaplanks;
 
 import com.mojang.logging.LogUtils;
 import de.tomalbrc.filament.registry.filament.BlockRegistry;
@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.function.Consumer;
 
-public class TomsVerticalPlanks implements ModInitializer {
+public class TSAPlanks implements ModInitializer {
     private static Logger LOGGER = LogUtils.getLogger();
 
     @Override
@@ -92,7 +92,7 @@ public class TomsVerticalPlanks implements ModInitializer {
     }
 
     public static void search(Consumer<File> registry, String path, String ext) {
-        var r = TomsVerticalPlanks.class.getResource(path);
+        var r = TSAPlanks.class.getResource(path);
         process(r, registry, ext, path);
     }
 
@@ -102,7 +102,7 @@ public class TomsVerticalPlanks implements ModInitializer {
         for (var item: list) {
             if (item.isDirectory()) {
                 var path2 = path + "/" +  item.getName();
-                process(TomsVerticalPlanks.class.getResource(path2), registry, ext, path2);
+                process(TSAPlanks.class.getResource(path2), registry, ext, path2);
             } else if (item.getPath().endsWith(ext)) {
                 registry.accept(item);
             }
