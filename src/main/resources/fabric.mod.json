@@ -8,7 +8,7 @@
   "contact": {
     "repo": "https://github.com/tomalbrc/toms-vertical-planks"
   },
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "icon": "tsa-planks-icon.png",
   "environment": "*",
   "entrypoints": {
