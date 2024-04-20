@@ -8,6 +8,15 @@ No additional setup needed!
 
 To disable the autohost functionality, set "forceAutoHost" to "false" in the filament config and disable it in the polymer configs!
 
+---
+Requires:
+- [polymer](https://modrinth.com/mod/polymer)
+- [filament](https://modrinth.com/mod/filament)
+
+and potentioally fabric api (used by both dependencies)
+
+---
+
 # Recipes
 
 - Line of 3 (1x3) Planks vertically for vertical planks
