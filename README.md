@@ -13,14 +13,14 @@ Requires:
 - [polymer](https://modrinth.com/mod/polymer)
 - [filament](https://modrinth.com/mod/filament)
 
-and potentioally fabric api (used by both dependencies)
+and fabric api (used by both dependencies)
 
 ---
 
 # Recipes
 
 - Line of 3 (1x3) Planks vertically for vertical planks
-- 4x4 vertical planks for chiseled planks
+- 2x2 vertical planks for chiseled planks
 
 # Command
 
