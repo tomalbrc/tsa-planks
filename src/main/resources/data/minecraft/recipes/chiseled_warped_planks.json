@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:chiseled_warped_planks",
+        "id": "tsa:chiseled_warped_planks",
         "count": 3
     }
 }

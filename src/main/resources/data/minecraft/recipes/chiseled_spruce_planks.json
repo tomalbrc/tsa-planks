@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:chiseled_spruce_planks",
+        "id": "tsa:chiseled_spruce_planks",
         "count": 3
     }
 }

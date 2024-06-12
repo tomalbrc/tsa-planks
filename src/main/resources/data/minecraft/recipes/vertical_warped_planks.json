@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "tsa:vertical_warped_planks",
+        "id": "tsa:vertical_warped_planks",
         "count": 3
     }
 }

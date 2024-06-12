@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "tsa:vertical_mangrove_planks",
+        "id": "tsa:vertical_mangrove_planks",
         "count": 3
     }
 }

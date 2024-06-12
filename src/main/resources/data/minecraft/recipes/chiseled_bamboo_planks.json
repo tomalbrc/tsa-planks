@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:chiseled_bamboo_planks",
+        "id": "tsa:chiseled_bamboo_planks",
         "count": 3
     }
 }

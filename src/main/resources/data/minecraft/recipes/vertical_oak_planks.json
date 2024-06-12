@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "tsa:vertical_oak_planks",
+        "id": "tsa:vertical_oak_planks",
         "count": 3
     }
 }

@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "tsa:chiseled_jungle_planks",
+        "id": "tsa:chiseled_jungle_planks",
         "count": 3
     }
 }

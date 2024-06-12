@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "tsa:vertical_birch_planks",
+        "id": "tsa:vertical_birch_planks",
         "count": 3
     }
 }
