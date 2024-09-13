@@ -8,6 +8,8 @@
   "blockModelType": "full_block",
   "properties": {
     "blockBase": "minecraft:jungle_planks",
-    "itemBase": "minecraft:paper"
+    "destroyTime": 2,
+    "explosionResistance": 3,
+    "requiresTool": false
   }
 }
