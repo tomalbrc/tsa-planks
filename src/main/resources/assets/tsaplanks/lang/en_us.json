@@ -10,7 +10,6 @@
   "block.tsa.chiseled_dark_oak_planks": "Chiseled Dark Oak Planks",
   "block.tsa.chiseled_warped_planks": "Chiseled Warped Planks",
   "block.tsa.chiseled_acacia_planks": "Chiseled Acacia Planks",
-
   "block.tsa.vertical_oak_planks": "Vertical Oak Planks",
   "block.tsa.vertical_crimson_planks": "Vertical Crimson Planks",
   "block.tsa.vertical_spruce_planks": "Vertical Spruce Planks",
@@ -21,5 +20,28 @@
   "block.tsa.vertical_birch_planks": "Vertical Birch Planks",
   "block.tsa.vertical_dark_oak_planks": "Vertical Dark Oak Planks",
   "block.tsa.vertical_warped_planks": "Vertical Warped Planks",
-  "block.tsa.vertical_acacia_planks": "Vertical Acacia Planks"
+  "block.tsa.vertical_acacia_planks": "Vertical Acacia Planks",
+
+  "item.tsa.chiseled_oak_planks": "Chiseled Oak Planks",
+  "item.tsa.chiseled_crimson_planks": "Chiseled Crimson Planks",
+  "item.tsa.chiseled_spruce_planks": "Chiseled Spruce Planks",
+  "item.tsa.chiseled_jungle_planks": "Chiseled Jungle Planks",
+  "item.tsa.chiseled_mangrove_planks": "Chiseled Mangrove Planks",
+  "item.tsa.chiseled_cherry_planks": "Chiseled Cherry Planks",
+  "item.tsa.chiseled_bamboo_planks": "Chiseled Bamboo Planks",
+  "item.tsa.chiseled_birch_planks": "Chiseled Birch Planks",
+  "item.tsa.chiseled_dark_oak_planks": "Chiseled Dark Oak Planks",
+  "item.tsa.chiseled_warped_planks": "Chiseled Warped Planks",
+  "item.tsa.chiseled_acacia_planks": "Chiseled Acacia Planks",
+  "item.tsa.vertical_oak_planks": "Vertical Oak Planks",
+  "item.tsa.vertical_crimson_planks": "Vertical Crimson Planks",
+  "item.tsa.vertical_spruce_planks": "Vertical Spruce Planks",
+  "item.tsa.vertical_jungle_planks": "Vertical Jungle Planks",
+  "item.tsa.vertical_mangrove_planks": "Vertical Mangrove Planks",
+  "item.tsa.vertical_cherry_planks": "Vertical Cherry Planks",
+  "item.tsa.vertical_bamboo_planks": "Vertical Bamboo Planks",
+  "item.tsa.vertical_birch_planks": "Vertical Birch Planks",
+  "item.tsa.vertical_dark_oak_planks": "Vertical Dark Oak Planks",
+  "item.tsa.vertical_warped_planks": "Vertical Warped Planks",
+  "item.tsa.vertical_acacia_planks": "Vertical Acacia Planks"
 }
