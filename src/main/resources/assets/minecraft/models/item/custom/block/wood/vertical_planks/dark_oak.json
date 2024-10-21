@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/warped_planks",
-		"particle": "block/warped_planks"
+		"0": "block/dark_oak_planks",
+		"particle": "block/dark_oak_planks"
 	},
 	"elements": [
 		{

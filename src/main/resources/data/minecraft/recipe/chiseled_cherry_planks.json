@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_cherry_planks"
-        }
+        "#": "tsa:vertical_cherry_planks"
     },
     "result": {
         "id": "tsa:chiseled_cherry_planks",

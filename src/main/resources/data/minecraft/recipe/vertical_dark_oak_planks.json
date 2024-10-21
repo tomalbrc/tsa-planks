@@ -6,9 +6,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:dark_oak_planks"
-        }
+        "#": "minecraft:dark_oak_planks"
     },
     "result": {
         "id": "tsa:vertical_dark_oak_planks",

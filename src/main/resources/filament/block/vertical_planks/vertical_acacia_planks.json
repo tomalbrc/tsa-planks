@@ -2,7 +2,7 @@
   "id": "tsa:vertical_acacia_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/acacia"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/acacia"
     }
   },
   "blockModelType": "full_block",

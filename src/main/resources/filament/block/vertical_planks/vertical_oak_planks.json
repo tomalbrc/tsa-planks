@@ -2,7 +2,7 @@
   "id": "tsa:vertical_oak_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/oak"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/oak"
     }
   },
   "blockModelType": "full_block",

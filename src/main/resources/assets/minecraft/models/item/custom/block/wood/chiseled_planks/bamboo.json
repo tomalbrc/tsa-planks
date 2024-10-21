@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/custom/wood/chiseled_planks/dark_oak",
-		"3": "block/custom/wood/chiseled_planks/dark_oak_side",
-		"particle": "block/custom/wood/chiseled_planks/dark_oak_side"
+		"2": "block/custom/wood/chiseled_planks/bamboo",
+		"3": "block/custom/wood/chiseled_planks/bamboo_side",
+		"particle": "block/custom/wood/chiseled_planks/bamboo_side"
 	},
 	"elements": [
 		{

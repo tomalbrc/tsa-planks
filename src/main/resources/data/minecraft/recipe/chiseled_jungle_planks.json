@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_jungle_planks"
-        }
+        "#": "tsa:vertical_jungle_planks"
     },
     "result": {
         "id": "tsa:chiseled_jungle_planks",

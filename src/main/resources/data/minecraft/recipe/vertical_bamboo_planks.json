@@ -6,9 +6,7 @@
         "#"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:bamboo_planks"
-        }
+        "#": "minecraft:bamboo_planks"
     },
     "result": {
         "id": "tsa:vertical_bamboo_planks",

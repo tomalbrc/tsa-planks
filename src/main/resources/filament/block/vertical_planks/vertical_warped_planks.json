@@ -2,7 +2,7 @@
   "id": "tsa:vertical_warped_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/warped"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/warped"
     }
   },
   "blockModelType": "full_block",

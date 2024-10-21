@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_acacia_planks"
-        }
+        "#": "tsa:vertical_acacia_planks"
     },
     "result": {
         "id": "tsa:chiseled_acacia_planks",

@@ -2,7 +2,7 @@
   "id": "tsa:vertical_spruce_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/spruce"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/spruce"
     }
   },
   "blockModelType": "full_block",

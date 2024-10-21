@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/custom/wood/chiseled_planks/warped",
-		"3": "block/custom/wood/chiseled_planks/warped_side",
-		"particle": "block/custom/wood/chiseled_planks/warped_side"
+		"2": "block/custom/wood/chiseled_planks/jungle",
+		"3": "block/custom/wood/chiseled_planks/jungle_side",
+		"particle": "block/custom/wood/chiseled_planks/jungle_side"
 	},
 	"elements": [
 		{

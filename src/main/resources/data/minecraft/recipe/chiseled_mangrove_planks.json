@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_mangrove_planks"
-        }
+        "#": "tsa:vertical_mangrove_planks"
     },
     "result": {
         "id": "tsa:chiseled_mangrove_planks",

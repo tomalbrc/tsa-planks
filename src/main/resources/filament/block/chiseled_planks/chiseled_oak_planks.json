@@ -2,7 +2,7 @@
   "id": "tsa:chiseled_oak_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/chiseled_planks/oak"
+      "default": "minecraft:item/custom/block/wood/chiseled_planks/oak"
     }
   },
   "blockModelType": "full_block",

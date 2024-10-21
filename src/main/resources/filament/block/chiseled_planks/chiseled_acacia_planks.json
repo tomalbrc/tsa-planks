@@ -2,7 +2,7 @@
   "id": "tsa:chiseled_acacia_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/chiseled_planks/acacia"
+      "default": "minecraft:item/custom/block/wood/chiseled_planks/acacia"
     }
   },
   "blockModelType": "full_block",

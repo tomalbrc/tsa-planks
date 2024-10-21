@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_warped_planks"
-        }
+        "#": "tsa:vertical_warped_planks"
     },
     "result": {
         "id": "tsa:chiseled_warped_planks",

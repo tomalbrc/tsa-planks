@@ -2,7 +2,7 @@
   "id": "tsa:chiseled_crimson_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/chiseled_planks/crimson"
+      "default": "minecraft:item/custom/block/wood/chiseled_planks/crimson"
     }
   },
   "blockModelType": "full_block",

@@ -2,7 +2,7 @@
   "id": "tsa:vertical_jungle_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/jungle"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/jungle"
     }
   },
   "blockModelType": "full_block",

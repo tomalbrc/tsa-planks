@@ -2,7 +2,7 @@
   "id": "tsa:vertical_birch_planks",
   "blockResource": {
     "models" : {
-      "default": "minecraft:custom/block/wood/vertical_planks/birch"
+      "default": "minecraft:item/custom/block/wood/vertical_planks/birch"
     }
   },
   "blockModelType": "full_block",

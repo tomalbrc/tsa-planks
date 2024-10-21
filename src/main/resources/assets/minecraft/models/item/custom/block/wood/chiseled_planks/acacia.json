@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/custom/wood/chiseled_planks/oak",
-		"3": "block/custom/wood/chiseled_planks/oak_side",
-		"particle": "block/custom/wood/chiseled_planks/oak_side"
+		"2": "block/custom/wood/chiseled_planks/acacia",
+		"3": "block/custom/wood/chiseled_planks/acacia_side",
+		"particle": "block/custom/wood/chiseled_planks/acacia_side"
 	},
 	"elements": [
 		{

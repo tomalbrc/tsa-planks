@@ -5,9 +5,7 @@
         "##"
     ],
     "key": {
-        "#": {
-            "item": "tsa:vertical_crimson_planks"
-        }
+        "#": "tsa:vertical_crimson_planks"
     },
     "result": {
         "id": "tsa:chiseled_crimson_planks",
