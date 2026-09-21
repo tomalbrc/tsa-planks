@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:vertical_mangrove_planks"
+                "recipes": "tsa:vertical_mangrove_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

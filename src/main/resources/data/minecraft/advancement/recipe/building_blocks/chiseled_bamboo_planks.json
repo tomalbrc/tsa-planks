@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:chiseled_bamboo_planks"
+                "recipes": "tsa:chiseled_bamboo_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

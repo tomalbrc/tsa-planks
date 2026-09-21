@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:chiseled_mangrove_planks"
+                "recipes": "tsa:chiseled_mangrove_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

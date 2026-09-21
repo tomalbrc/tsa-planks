@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:chiseled_acacia_planks"
+                "recipes": "tsa:chiseled_acacia_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:vertical_crimson_planks"
+                "recipes": "tsa:vertical_crimson_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

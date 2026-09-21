@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:chiseled_spruce_planks"
+                "recipes": "tsa:chiseled_spruce_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }

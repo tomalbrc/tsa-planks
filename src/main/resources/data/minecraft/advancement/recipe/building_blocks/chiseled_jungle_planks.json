@@ -15,7 +15,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "tsa:chiseled_jungle_planks"
+                "recipes": "tsa:chiseled_jungle_planks"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
