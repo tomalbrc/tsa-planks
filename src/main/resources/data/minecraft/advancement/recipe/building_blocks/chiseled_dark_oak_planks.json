@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_dark_oak_planks"
+            "tsa:chiseled_dark_oak_planks"
         ]
     }
 }

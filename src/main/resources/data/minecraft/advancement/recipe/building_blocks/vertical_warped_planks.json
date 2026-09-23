@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_warped_planks"
+            "tsa:vertical_warped_planks"
         ]
     }
 }

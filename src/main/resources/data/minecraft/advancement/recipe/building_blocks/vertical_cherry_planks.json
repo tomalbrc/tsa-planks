@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_cherry_planks"
+            "tsa:vertical_cherry_planks"
         ]
     }
 }

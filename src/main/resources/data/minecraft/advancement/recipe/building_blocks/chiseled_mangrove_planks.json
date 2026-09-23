@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_mangrove_planks"
+            "tsa:chiseled_mangrove_planks"
         ]
     }
 }

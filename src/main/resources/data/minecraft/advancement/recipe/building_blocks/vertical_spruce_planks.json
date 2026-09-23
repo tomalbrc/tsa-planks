@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_spruce_planks"
+            "tsa:vertical_spruce_planks"
         ]
     }
 }

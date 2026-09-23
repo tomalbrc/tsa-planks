@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_jungle_planks"
+            "tsa:vertical_jungle_planks"
         ]
     }
 }

@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_crimson_planks"
+            "tsa:vertical_crimson_planks"
         ]
     }
 }

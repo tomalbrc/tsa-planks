@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_warped_planks"
+            "tsa:chiseled_warped_planks"
         ]
     }
 }

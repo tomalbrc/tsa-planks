@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_acacia_planks"
+            "tsa:vertical_acacia_planks"
         ]
     }
 }

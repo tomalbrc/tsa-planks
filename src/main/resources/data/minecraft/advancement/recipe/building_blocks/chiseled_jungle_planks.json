@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_jungle_planks"
+            "tsa:chiseled_jungle_planks"
         ]
     }
 }

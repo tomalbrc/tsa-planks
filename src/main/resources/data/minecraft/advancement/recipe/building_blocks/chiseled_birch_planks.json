@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_birch_planks"
+            "tsa:chiseled_birch_planks"
         ]
     }
 }

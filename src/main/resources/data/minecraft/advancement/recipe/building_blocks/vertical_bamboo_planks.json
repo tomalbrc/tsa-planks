@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_bamboo_planks"
+            "tsa:vertical_bamboo_planks"
         ]
     }
 }

@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:chiseled_acacia_planks"
+            "tsa:chiseled_acacia_planks"
         ]
     }
 }

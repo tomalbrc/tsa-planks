@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_oak_planks"
+            "tsa:vertical_oak_planks"
         ]
     }
 }

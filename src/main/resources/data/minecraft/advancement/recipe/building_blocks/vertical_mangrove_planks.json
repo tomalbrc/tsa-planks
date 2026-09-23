@@ -28,7 +28,7 @@
     ],
     "rewards": {
         "recipes": [
-            "minecraft:vertical_mangrove_planks"
+            "tsa:vertical_mangrove_planks"
         ]
     }
 }
